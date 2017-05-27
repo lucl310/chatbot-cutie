@@ -1,0 +1,23 @@
+body{
+	color: white;
+	background-color: grey;
+	text-align: center;
+}
+#bot{
+	width: 1000px;
+}
+#you{
+	width: 1000px
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+#nav{
+	text-align: left;
+}
+.link{
+	font-size: 30px;
+	margin: 150px;
+	justify-content: space-around;
+}
